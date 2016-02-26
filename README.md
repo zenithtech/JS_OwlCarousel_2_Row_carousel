@@ -1,5 +1,5 @@
 # JS_OwlCarousel_2_Row_carousel
-Show two rows on large screens, one row on small screens.
+Show two rows on large screens, one row on small screens, using Owl Carousel.
 
 Example: https://zenitht.com/git/JS_OwlCarousel_2_Row_carousel/
 
